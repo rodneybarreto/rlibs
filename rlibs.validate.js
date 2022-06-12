@@ -13,7 +13,7 @@
  *     <script type="text/javascript" src="rlibs.validate.js"></script>
  *
  * @author Rodney Barreto
- * @version v1.0 (25/06/2015)
+ * @version v1.0.0 (25/06/2015)
  */
 var RLIBS = RLIBS || {};
 
